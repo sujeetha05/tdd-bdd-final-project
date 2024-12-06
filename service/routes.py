@@ -1,5 +1,3 @@
-routes.py
-
 ######################################################################
 # Copyright 2016, 2022 John J. Rofrano. All Rights Reserved.
 #
